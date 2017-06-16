@@ -1,0 +1,151 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-288px;
+  width:400px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u4767_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:400px;
+  height:203px;
+}
+#u4767 {
+  position:absolute;
+  left:288px;
+  top:188px;
+  width:400px;
+  height:203px;
+}
+#u4768 {
+  position:absolute;
+  left:2px;
+  top:94px;
+  width:396px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4769_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:76px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4769 {
+  position:absolute;
+  left:498px;
+  top:352px;
+  width:76px;
+  height:26px;
+}
+#u4770 {
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:72px;
+  word-wrap:break-word;
+}
+#u4771_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:76px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4771 {
+  position:absolute;
+  left:584px;
+  top:352px;
+  width:76px;
+  height:26px;
+}
+#u4772 {
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:72px;
+  word-wrap:break-word;
+}
+#u4773_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:15px;
+}
+#u4773 {
+  position:absolute;
+  left:305px;
+  top:195px;
+  width:150px;
+  height:15px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:12px;
+}
+#u4774 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  word-wrap:break-word;
+}
+#u4775_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:169px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u4775 {
+  position:absolute;
+  left:316px;
+  top:275px;
+  width:169px;
+  height:16px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u4776 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:169px;
+  white-space:nowrap;
+}
